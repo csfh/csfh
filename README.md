@@ -57,4 +57,4 @@ I reach for the tools that fit the job, with a bias toward simple systems, fast 
 
 ## Community
 
-Use common sense and decency. There is no formal code of conduct. We reserve the right to moderate this community to the extent of the law and the policy of the host. Write community@modoterra.xyz if you need us.
+Use common sense and decency. There is no formal code of conduct. We reserve the right to moderate this community to the extent of the law and the policy of the host. Write oss@christofferhallas.com if you need us.
